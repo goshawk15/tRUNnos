@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">tRUNnos</string>
+    <string name="login">login</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="start">Upload a gpx file</string>
+    <string name="upload_a_gpx_file">Upload a gpx file!</string>
+    <string name="View">View Statistics </string>
+    <string name="statistics">Statistics</string>
+    <string name="personal_statistics">Personal Statistics</string>
+    <string name="textview">TextView</string>
+    <string name="loading">Loading...</string>
+    <string name="your_results_are_shown_below">Your results are shown below!</string>
+    <string name="my_statistics">My Statistics</string>
+    <string name="home">Home_</string>
+    <string name="open">Open navigation</string>
+    <string name="close">Close navigation</string>
+    <string name="download_stats">Download Statistics</string>
+    <string name="stats_label">stats_label</string>
+
+</resources>
